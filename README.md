@@ -66,27 +66,33 @@ Let's connect, learn, and build amazing projects together!
 
 ## 🎯 Featured Projects
 
-### 📈 **Credit Scoring**
-Machine learning model for credit risk assessment using Jupyter Notebook.
-- **Tech**: Python, Jupyter, Pandas, Scikit-learn
-- **Link**: [Repository](https://github.com/Aarav-cyber/credit-scoring)
+### 😭 **Emotion Prediction using CNN**
+
+Deep learning model for predicting emotions from facial expressions using Convolutional Neural Networks.
+
+- **Tech**: Python, TensorFlow, Keras, CNN
+- **Link**: [Repository](https://github.com/Aarav-cyber/emotion_prediction_using_cnn)
 
 ### 👤 **Face Recognition**
+
 Computer vision project for facial recognition and detection.
+
 - **Tech**: Python, OpenCV
 - **Link**: [Repository](https://github.com/Aarav-cyber/Face-Recognition)
 
-### 🏠 **Real Estate Web Application**
-Full-stack real estate platform with frontend and backend components.
-- **Tech**: JavaScript, React, Node.js, MongoDB
-- **Frontend**: [Repository](https://github.com/Aarav-cyber/real-state-fe)
-- **Backend**: [Repository](https://github.com/Aarav-cyber/real-state-be)
+### 🏠 **Home Security System using Image Classification**
 
-### 🌤️ **Weather App**
-Learning project exploring APIs and frontend development.
-- **Tech**: JavaScript, CSS, REST API
-- **Link**: [Repository](https://github.com/Aarav-cyber/weather-app)
+Intelligent home security system using image classification and machine learning.
 
+- **Tech**: JavaScript, Python, TensorFlow
+- **Link**: [Repository](https://github.com/Aarav-cyber/Home-security-system-using-image-classification)
+
+### 💭 **Sentiment Analysis**
+
+Natural Language Processing project for analyzing sentiment in text data.
+
+- **Tech**: Python, NLP, NLTK, Scikit-learn
+- **Link**: [Repository](https://github.com/Aarav-cyber/Sentiment-Analysis)
 ---
 
 ## 🏆 Achievements
