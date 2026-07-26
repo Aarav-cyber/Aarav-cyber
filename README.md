@@ -17,9 +17,9 @@
 <div align="center">
 
 <!-- ================= HERO SECTION ================= -->
-<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%" alt="banner-wave"/>
+<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%" alt="banner-wave"/> -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Aarav+%F0%9F%91%8B;Full+Stack+Developer;AI+%2F+ML+Enthusiast;Competitive+Programmer;Open+Source+Contributor" alt="Typing SVG" /> -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Aarav+%F0%9F%91%8B;Full+Stack+Developer;AI+%2F+ML+Enthusiast;Competitive+Programmer;Open+Source+Contributor" alt="Typing SVG" /> 
 
 <br/>
 
