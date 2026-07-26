@@ -27,7 +27,7 @@
 
 **Full Stack Developer | AI Enthusiast | Competitive Programmer | Open Source Contributor**
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/hand-wave.gif" width="26" height="26" alt="waving hand"/>
 
 </div>
 
